@@ -71,6 +71,6 @@ Stay tuned as I add my latest projects, showcasing my technical expertise and pr
 
 Feel free to connect with me for collaboration, feedback, or professional opportunities!
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Email**: [zaidiismail003@gmail.com](mailto:zaidiismail003@gmail.com)
 - **LinkedIn**: [Zaidi Ismail](https://www.linkedin.com/in/zaidi-ismail-492aa5258/)
 - **GitHub**: [Zaidi3](https://github.com/Zaidi3)
